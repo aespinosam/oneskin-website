@@ -2,7 +2,7 @@
 const stats = [
     { id: 1, name: 'on our team', value: '4 Members' },
     { id: 2, name: 'working on this project', value: '76 Hours' },
-    { id: 3, name: 'of coffee consumed', value: '72 Cups' },
+    { id: 3, name: 'of coffee consumed', value: '50+ Cups' },
 ]
 
 export default function Stats() {
