@@ -7,10 +7,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 const navigation = [
-    { name: 'Product', href: '#' },
-    { name: 'Features', href: '#' },
-    { name: 'Marketplace', href: '#' },
-    { name: 'Company', href: '#' },
+    { name: 'About', href: '#about' },
+    { name: 'Team', href: '#team' },
+    { name: 'Stats', href: '#stats' },
 ]
 
 export default function Hero() {
