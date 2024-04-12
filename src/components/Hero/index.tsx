@@ -152,7 +152,7 @@ export default function Hero() {
                             </a>
                         </div> */}
                     </div>
-                    <div className="mt-16 sm:mt-24 lg:mt-0 lg:flex-shrink-0 lg:flex-grow">
+                    <div className="mt-16 sm:mt-24 lg:mt-0 lg:flex-shrink-0 lg:flex-grow ">
                         <svg viewBox="0 0 366 729" role="img" className="mx-auto w-[22.875rem] max-w-full drop-shadow-xl">
                             <title>App screenshot</title>
                             <defs>
@@ -175,7 +175,7 @@ export default function Hero() {
                                 transform="translate(24 24)"
                                 clipPath="url(#2ade4387-9c63-4fc4-b754-10e687a0d332)"
                             >
-                                <Image fill src="/screenshot.png" alt="" />
+                                <Image src="/screenshot.png" alt="" width={500} height={500} />
                             </foreignObject>
                         </svg>
                     </div>
